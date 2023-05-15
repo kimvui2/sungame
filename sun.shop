@@ -1,0 +1,6 @@
+{
+    "BUNDLE": "https://kimcenter.xyz/sun/bundle/setting.json",    
+    "PATH": "https://kimcenter.xyz/sun/bundle/",
+    "BTGAMES": "https://kimcenter.xyz/sun/btgames/manifest.json",   
+    "URL_API": "https://suncenter.online:8443/api", "RELEASE":1
+}
